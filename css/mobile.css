@@ -75,6 +75,9 @@
         display: grid;
         grid-column: 4 / 12;
     }
+    #menu-list li:first-of-type {
+        display: none;
+    }
     .logo, .footer-logo {
         font-size: 30px;
     }
@@ -225,6 +228,7 @@
     }
     .footer .footer-contacts ul, .footer .footer-links ul {
         margin: 15px 0;
+        padding: 0;
     }
     .footer-contacts li:first-of-type span,
     .footer-contacts li:last-of-type span,
