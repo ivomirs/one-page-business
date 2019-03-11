@@ -24,6 +24,7 @@ Using one-page website is great because it removes clutter. You can focus only o
 ## Technologies
 * HTML5
 * CSS3
+* Animate.css - version 3.7.0
 * JQuery - version 3.3.1
 
 ## Code Examples
