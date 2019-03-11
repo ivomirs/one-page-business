@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-Using one-page website is great because it removes clutter. You can focus only on the essentials and call to action. 
+Using one-page website is great because it removes the clutter. You can focus only on the essentials and call to action. 
 
 ## Screenshots
 [screenshot](./images/pronto_screenshot_1.jpg)
@@ -27,7 +27,7 @@ Using one-page website is great because it removes clutter. You can focus only o
 * Animate.css - version 3.7.0
 * JQuery - version 3.3.1
 
-## Code Examples
+## Code Example
         <!-- Features section -->
         <div id="sectionFeatures" class="features-wrapper">
             <div class="features-content">
