@@ -19,7 +19,7 @@
     .slide-wrapper .item-1 {
         width: 1200px;
     }
-    .text--container h1 {
+    .text-container h1 {
         font-size: 60px;
     }
   }
@@ -40,7 +40,7 @@
     .slide-wrapper img {
         max-width: 40%;
     }
-    .text--container h1 {
+    .text-container h1 {
         font-size: 50px;
     }
     #menu-list a {
@@ -103,26 +103,26 @@
     .slide-wrapper .item-1 {
         top: -330px;
     }
-    .text--container {
+    .text-container {
         font-weight: 100;
         grid-column: 2 / 12;
         margin-top: 100px;
     }
-    .text--container h1 {
+    .text-container h1 {
         font-size: 50px;
         font-weight: 700;
         margin: 50px 0 0;
         color: white;
         text-align: center;
     }
-    .text--container {
+    .text-container {
         justify-items: center;
     }
-    .text--container p {
+    .text-container p {
         color: white;
         text-align: center;
     }
-    .text--container .btn--sub {
+    .text-container .btn--sub {
         border: 2px solid white;
         color: white;
         background: none;

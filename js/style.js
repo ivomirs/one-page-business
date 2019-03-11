@@ -37,7 +37,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 $(document).ready(function() {
     var menuHome = $('.m-home'),
         menuFeatures = $('.m-features'),
-        menuPOS = $('.m-services'),
+        menuServices = $('.m-services'),
         menuContact = $('.m-contact');
 
     menuHome.click(function() {
@@ -45,14 +45,14 @@ $(document).ready(function() {
         $('.m-features, .m-services, .m-contact').removeClass('active');
     });
 
-    menuPOS.click(function() {
-        menuPOS.addClass('active');
-        $('.m-home, .m-features').removeClass('active');
+    menuServices.click(function() {
+        menuServices.addClass('active');
+        $('.m-home, .m-features, .m-contact').removeClass('active');
     });
 
     menuFeatures.click(function() {
         menuFeatures.addClass('active');
-        $('.m-home, .m-services').removeClass('active');
+        $('.m-home, .m-services, .m-contact').removeClass('active');
     });
 
     menuContact.click(function() {
